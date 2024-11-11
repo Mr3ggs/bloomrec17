@@ -1,0 +1,11 @@
+{
+  "rooms": {
+    "^RecCenter": {
+      "players": {}
+    },
+    "^DormRoom": {
+      "players": {}
+    }
+  },
+  "players": {}
+}
